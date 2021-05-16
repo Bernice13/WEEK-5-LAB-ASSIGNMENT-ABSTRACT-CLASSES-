@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WEEK 5 LAB ASSIGNMENT/1.0.0": {
+        "runtime": {
+          "WEEK 5 LAB ASSIGNMENT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WEEK 5 LAB ASSIGNMENT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

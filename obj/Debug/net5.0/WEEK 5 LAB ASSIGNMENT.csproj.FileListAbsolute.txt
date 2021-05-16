@@ -1,0 +1,16 @@
+C:\Users\Bernice\Desktop\LabAssignment\WEEK 5 LAB ASSIGNMENT\bin\Debug\net5.0\WEEK 5 LAB ASSIGNMENT.exe
+C:\Users\Bernice\Desktop\LabAssignment\WEEK 5 LAB ASSIGNMENT\bin\Debug\net5.0\WEEK 5 LAB ASSIGNMENT.deps.json
+C:\Users\Bernice\Desktop\LabAssignment\WEEK 5 LAB ASSIGNMENT\bin\Debug\net5.0\WEEK 5 LAB ASSIGNMENT.runtimeconfig.json
+C:\Users\Bernice\Desktop\LabAssignment\WEEK 5 LAB ASSIGNMENT\bin\Debug\net5.0\WEEK 5 LAB ASSIGNMENT.runtimeconfig.dev.json
+C:\Users\Bernice\Desktop\LabAssignment\WEEK 5 LAB ASSIGNMENT\bin\Debug\net5.0\WEEK 5 LAB ASSIGNMENT.dll
+C:\Users\Bernice\Desktop\LabAssignment\WEEK 5 LAB ASSIGNMENT\bin\Debug\net5.0\ref\WEEK 5 LAB ASSIGNMENT.dll
+C:\Users\Bernice\Desktop\LabAssignment\WEEK 5 LAB ASSIGNMENT\bin\Debug\net5.0\WEEK 5 LAB ASSIGNMENT.pdb
+C:\Users\Bernice\Desktop\LabAssignment\WEEK 5 LAB ASSIGNMENT\obj\Debug\net5.0\WEEK 5 LAB ASSIGNMENT.csprojAssemblyReference.cache
+C:\Users\Bernice\Desktop\LabAssignment\WEEK 5 LAB ASSIGNMENT\obj\Debug\net5.0\WEEK 5 LAB ASSIGNMENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bernice\Desktop\LabAssignment\WEEK 5 LAB ASSIGNMENT\obj\Debug\net5.0\WEEK 5 LAB ASSIGNMENT.AssemblyInfoInputs.cache
+C:\Users\Bernice\Desktop\LabAssignment\WEEK 5 LAB ASSIGNMENT\obj\Debug\net5.0\WEEK 5 LAB ASSIGNMENT.AssemblyInfo.cs
+C:\Users\Bernice\Desktop\LabAssignment\WEEK 5 LAB ASSIGNMENT\obj\Debug\net5.0\WEEK 5 LAB ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\Bernice\Desktop\LabAssignment\WEEK 5 LAB ASSIGNMENT\obj\Debug\net5.0\WEEK 5 LAB ASSIGNMENT.dll
+C:\Users\Bernice\Desktop\LabAssignment\WEEK 5 LAB ASSIGNMENT\obj\Debug\net5.0\ref\WEEK 5 LAB ASSIGNMENT.dll
+C:\Users\Bernice\Desktop\LabAssignment\WEEK 5 LAB ASSIGNMENT\obj\Debug\net5.0\WEEK 5 LAB ASSIGNMENT.pdb
+C:\Users\Bernice\Desktop\LabAssignment\WEEK 5 LAB ASSIGNMENT\obj\Debug\net5.0\WEEK 5 LAB ASSIGNMENT.genruntimeconfig.cache
